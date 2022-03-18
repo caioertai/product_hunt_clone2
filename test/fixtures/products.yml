@@ -1,0 +1,6 @@
+hello:
+  name: "Hello"
+  tagline: "World!"
+lorem:
+  name: "Lorem"
+  tagline: "Ipsum Doklor!"

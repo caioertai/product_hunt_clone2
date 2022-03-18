@@ -1,0 +1,4 @@
+default_user:
+  first_name: User
+  last_name: Userino
+  email: user@users.com
