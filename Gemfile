@@ -34,9 +34,11 @@ gem 'faker'
 gem 'autoprefixer-rails', '10.2.5'
 gem 'font-awesome-sass'
 gem 'simple_form', github: 'heartcombo/simple_form'
+
 group :development, :test do  gem 'pry-byebug'
   gem 'pry-rails'
   gem 'dotenv-rails'
+  gem 'launchy'
 
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'pry-byebug'
